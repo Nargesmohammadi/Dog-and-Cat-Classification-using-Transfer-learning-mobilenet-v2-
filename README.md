@@ -49,7 +49,7 @@ pip install numpy pillow matplotlib scikit-learn opencv-python tensorflow tensor
 - The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/competitions/dogs-vs-cats/rules).
 - The MobileNet-V2 model used for transfer learning is obtained from the TensorFlow Hub.
 
-#### The results of the code for classifying the Dog vs Cat images are below:
+### The results of the code for classifying the Dog vs Cat images are below:
 
 
 
