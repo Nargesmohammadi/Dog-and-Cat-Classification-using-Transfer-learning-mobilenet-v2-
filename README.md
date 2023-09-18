@@ -50,6 +50,9 @@ pip install numpy pillow matplotlib scikit-learn opencv-python tensorflow tensor
 - The MobileNet-V2 model used for transfer learning is obtained from the TensorFlow Hub.
 
 You can see the results of the code for classifying Dog vs Cat images:
+![Uploading image.png…]()
+
+
 
 ![image](https://github.com/Nargesmohammadi/Dog-and-Cat-Classification-using-Transfer-learning-mobilenet-v2-/assets/96385230/2733e5ff-6156-458a-95e4-6f21d56f42e0)
 ![image](https://github.com/Nargesmohammadi/Dog-and-Cat-Classification-using-Transfer-learning-mobilenet-v2-/assets/96385230/3ef48edd-cec5-4534-b581-5f8fbc06586d)
