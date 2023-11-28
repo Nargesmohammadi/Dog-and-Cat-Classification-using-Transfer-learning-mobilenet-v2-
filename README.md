@@ -1,8 +1,6 @@
 
 # Dog and Cat Classification using Transfer Learning MobileNet-V2 🐶🐱
 
-This repository contains code for a Dog and Cat Classification model using transfer learning with MobileNet# Dog and Cat Classification using Transfer Learning MobileNet-V2
-
 This GitHub repository contains code for a dog and cat classification project using transfer learning with MobileNet-V2. The goal of this project is to train a model that can accurately classify images of dogs and cats.
 
 ## Dataset
